@@ -18,7 +18,6 @@
 - [Data Source](#data-source)
 - [Data Cleaning & Transformation](#data-cleaning-transformation)
 - [Key Visualizations](#key-visualizations)
-- [Screenshots]
 - [Insights & Findings](#insights-findings)
 - [Interactive Features](#interactive-features)
 - [Challenges & Solutions](#challenges-solutions)
