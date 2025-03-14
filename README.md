@@ -79,7 +79,7 @@ In the future, I plan to:
 - Explore deeper **industry-specific insights**.
 
 ## 🤝 Contact
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-📂 [Portfolio](https://yourportfolio.com)
+📧 Email: nicolemanyathela5@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nicole-manyathela-2a46ab273/)  
+📂 [Portfolio](https://nicolesportfolio.vercel.app/#projects)
 
