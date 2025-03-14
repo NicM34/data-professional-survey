@@ -47,6 +47,14 @@ The Power BI dashboard includes:
 - **Heatmap**: Showing the correlation between job satisfaction and salary.
 
 ## Screenshots
+<img width="505" alt="Image" src="https://github.com/user-attachments/assets/9ffd0d62-281a-4525-8cfd-36d339b27ae5" />
+
+<img width="506" alt="Image" src="https://github.com/user-attachments/assets/4bda4527-837f-4562-bc51-2ce8a2058a86" />
+
+<img width="506" alt="Image" src="https://github.com/user-attachments/assets/91b702f1-356c-4f6f-93c3-60ff4da02d87" />
+<img width="509" alt="Image" src="https://github.com/user-attachments/assets/eafffda0-f5ba-4985-9d0e-d532e7333cef" />
+
+<img width="508" alt="Image" src="https://github.com/user-attachments/assets/f4136f39-5430-451d-9303-f44c1b3d4929" />
 
 ## 🔍 Insights & Findings
 From the analysis, the following key insights emerged:
